@@ -1,0 +1,3 @@
+# Pastas com código de apoio, não DAGs: o Airflow não precisa varrê-las
+etl/
+sql/

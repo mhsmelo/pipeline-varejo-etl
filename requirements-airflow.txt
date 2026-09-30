@@ -1,0 +1,8 @@
+# Dependências instaladas na imagem do Airflow (Dockerfile).
+# boto3 e o provider do Postgres já vêm na imagem oficial; ficam listados para deixar explícito.
+boto3
+requests
+pandas
+pyarrow
+psycopg2-binary
+apache-airflow-providers-postgres
